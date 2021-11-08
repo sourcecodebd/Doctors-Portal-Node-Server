@@ -1,8 +1,8 @@
 # Doctors Portal API MERN
 ## Server-Link
-Coming soon...
+https://agile-headland-44416.herokuapp.com/
 ## Site-Link 
-Coming Soon...
+https://doctors-portal-org.web.app/
 
 ## Author 
 [Nafi Mahmud][author]
